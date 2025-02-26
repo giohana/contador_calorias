@@ -1,0 +1,2 @@
+C:/Users/Giohana/Desktop/contador_calorias/android/app/.cxx/Debug/6y2r5f3m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Giohana/Desktop/contador_calorias/android/app/.cxx/Debug/6y2r5f3m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
